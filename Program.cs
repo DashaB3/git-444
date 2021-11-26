@@ -27,7 +27,8 @@ namespace ConsoleApp1_Git_1
             {
                 Console.Write(n+" ");
             }
-            
+            Console.WriteLine("Htllo Git!");
         }
+        
     }
 }
